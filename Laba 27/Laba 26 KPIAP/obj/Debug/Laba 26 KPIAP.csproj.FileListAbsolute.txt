@@ -1,0 +1,79 @@
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe.config
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.pdb
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_MarkupCompile.cache
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_MarkupCompile.lref
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.g.resources
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba_26_KPIAP.Properties.Resources.resources
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.exe
+C:\Users\Artem\Desktop\C#\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.pdb
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe.config
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.pdb
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.AssemblyReference.cache
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\MainWindow.g.cs
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\App.g.cs
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_MarkupCompile.cache
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_MarkupCompile.lref
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\MainWindow.baml
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.g.resources
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba_26_KPIAP.Properties.Resources.resources
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.GenerateResource.cache
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.CoreCompileInputs.cache
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.exe
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.pdb
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\bin\Debug\Database1.mdf
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\bin\Debug\Database1_log.ldf
+E:\Сделанное говно\Laba 26 KPIAP\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_Content.g.cs
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Database1.mdf
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Database1_log.ldf
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe.config
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.pdb
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.AssemblyReference.cache
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\MainWindow.g.cs
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\App.g.cs
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_Content.g.cs
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_MarkupCompile.cache
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_MarkupCompile.lref
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\MainWindow.baml
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.g.resources
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba_26_KPIAP.Properties.Resources.resources
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.GenerateResource.cache
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.CoreCompileInputs.cache
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.exe
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.pdb
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe.manifest
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.application
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.exe.manifest
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.application
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Database1.mdf
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Database1_log.ldf
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe.config
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe.manifest
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.application
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.exe
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Debug\Laba 26 KPIAP.pdb
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\MainWindow.g.cs
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\App.g.cs
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_Content.g.cs
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_MarkupCompile.cache
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP_MarkupCompile.lref
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\MainWindow.baml
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.g.resources
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba_26_KPIAP.Properties.Resources.resources
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.GenerateResource.cache
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.CoreCompileInputs.cache
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.exe.manifest
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.application
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.exe
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.pdb
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.ResolveComReference.cache
+E:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Debug\Laba 26 KPIAP.csproj.AssemblyReference.cache

@@ -1,0 +1,22 @@
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Release\Database1.mdf
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Release\Database1_log.ldf
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Release\Laba 26 KPIAP.exe.config
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Release\Laba 26 KPIAP.exe
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Release\Laba 26 KPIAP.pdb
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP.csproj.AssemblyReference.cache
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\MainWindow.g.cs
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\App.g.cs
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP_Content.g.cs
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP_MarkupCompile.cache
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP_MarkupCompile.lref
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\MainWindow.baml
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP.g.resources
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba_26_KPIAP.Properties.Resources.resources
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP.csproj.GenerateResource.cache
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP.csproj.CoreCompileInputs.cache
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP.exe
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP.pdb
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Release\Laba 26 KPIAP.exe.manifest
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\bin\Release\Laba 26 KPIAP.application
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP.exe.manifest
+F:\Сделанное говно\Laba 27\Laba 26 KPIAP\obj\Release\Laba 26 KPIAP.application
